@@ -1,2 +1,2 @@
 # hello-world
-Hust another repository
+Just another repository
